@@ -1,0 +1,24 @@
+{
+  "name": "discord-find-blacklist-username-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corwintines/discord-find-blacklist-username-bot.git"
+  },
+  "author": "Corwintines",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corwintines/discord-find-blacklist-username-bot/issues"
+  },
+  "homepage": "https://github.com/corwintines/discord-find-blacklist-username-bot#readme",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "yarn": "^1.22.18"
+  }
+}
